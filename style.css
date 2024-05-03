@@ -1,0 +1,29 @@
+#pesquisa{
+    margin-left: 700px;
+}
+#logo{
+    width: 75px;
+    margin-left: 5px;
+}
+#carou{
+    width: 55vw;
+}
+#imagem{
+    width: 28vw;
+    margin: 10px 2vw;
+}
+.text-center{
+    margin: 0px 10px;
+}
+#manchete{
+    width: 50vw;
+    margin-top: 50px;
+}
+p{
+    font-size: 20px;
+    margin: 0px 100px;
+    text-align: justify;
+}
+#man{
+    font-size: 15px;
+}
